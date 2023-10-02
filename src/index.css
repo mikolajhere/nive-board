@@ -9,6 +9,8 @@
   /* 2 */
   border-color: #e5e7eb;
   /* 2 */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 ::before,
